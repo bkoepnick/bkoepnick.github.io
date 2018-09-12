@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brian Koepnick"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Brian Koepnick"
-description              : &description "Graduate student at the University of Washington"
+description              : &description "Ph.D. student at the University of Washington"
 url                      : https://briankoepnick.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bkoepnick/bkoepnick.github.io"
@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Brian Koepnick"
-  avatar           : "brian_koepnick.jpg"
-  bio              : "Biochemistry Ph.D. student at the University of Washington, studying protein design with Foldit"
+  avatar           : "brian-koepnick.jpg"
+  bio              : "Ph.D. student at the University of Washington"
   location         : "Seattle, WA"
   employer         :
   googlescholar    : 
@@ -193,7 +193,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
