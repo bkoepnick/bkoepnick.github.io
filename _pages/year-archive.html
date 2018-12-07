@@ -1,26 +1,33 @@
 ---
-layout: archive
-permalink: /blog/
+layout: single
 title: "Blog posts"
+permalink: /blog/
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-Below are some of my contributions to the <a href="https://fold.it/portal/blog" style="color:initial;">Foldit blog</a>. Follow the links to see the original blog posts on the Foldit website.
+Below are some of my contributions to the <a href="https://fold.it/portal/blog" style="color:initial;">Foldit blog</a>. Follow the links below to the original blog posts on the Foldit website.
 <br/>
+
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% comment %}
+  
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.link }}" style="color:inherit;">{{ post.title }}</a>
+  </h2>  
+  
   {% if post.img %}
-    <img src="{{ site.baseurl }}/{{ post.img }}" style="vertical-align:right"/>
+    <a href="{{ post.link }}"><img src="{{ post.img | prepend: "/images/" | prepend: basepath }}" style="float:right;align-horizontal:middle;height:150px;border:1px solid black;"></a>
   {% endif %}
-  {% endcomment %}
-  {% include archive-single-thumbnail.html %}
+
+  <p><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p> 
+  
+  <p>{{ post.excerpt }}</p>
+  <br/>
 {% endfor %}

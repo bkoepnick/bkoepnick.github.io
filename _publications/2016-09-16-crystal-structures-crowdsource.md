@@ -6,7 +6,7 @@ date: 2016-09-16
 paperurl: 'https://www.nature.com/articles/ncomms12549.pdf'
 pubmed: 'https://www.ncbi.nlm.nih.gov/pubmed/27633552'
 authors: 'Horowitz S<sup>*</sup>, <b>Koepnick B<sup>*</sup></b>, Martin R<sup>*</sup>, Tymieniecki A, Winburn AA, Cooper S, Flatten J, Rogawski DS, Koropatkin NM, Hailu TT, Jain N, Koldewey P, Ahlstrom LS, Chapman MR, Sikkema AP, Skiba MA, Maloney FP, Beinlich FR, Foldit Players, University of Michigan students, Popović Z, Baker D, Khatib F, Bardwell JC'
-journal: 'Nature Communications'
+journal: 'Nat. Commun.'
 volume: '7'
 page_num:
 pdf: 'https://www.nature.com/articles/ncomms12549.pdf'
