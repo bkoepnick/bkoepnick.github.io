@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download [PDF](/files/koepnick_cv_181215.pdf)
+Download [PDF](/files/koepnick_cv_190605.pdf)
