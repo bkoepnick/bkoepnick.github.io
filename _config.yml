@@ -13,7 +13,7 @@ name                     : &name "Brian Koepnick"
 description              : &description "Research scientist at the University of Washington"
 url                      : https://briankoepnick.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bkoepnick/bkoepnick.github.io"
+repository               :
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bkoepnick"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
