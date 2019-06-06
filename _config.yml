@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Brian Koepnick"
-description              : &description "Ph.D. student at the University of Washington"
+description              : &description "Research scientist at the University of Washington"
 url                      : https://briankoepnick.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bkoepnick/bkoepnick.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Brian Koepnick"
   avatar           : "brian-koepnick.jpg"
-  bio              : "Ph.D. student at the University of Washington"
+  bio              : "Research scientist at the University of Washington"
   location         : "Seattle, WA"
   employer         :
   googlescholar    : 
