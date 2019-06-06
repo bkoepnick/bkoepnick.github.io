@@ -17,7 +17,9 @@ Foldit players have led us to some important conclusions about protein design an
 
 Our results suggest that citizen science might be useful for testing scientific models in general, and that crowdsourcing is especially well-suited for creative tasks.
 
-_A paper reporting this work is currently under peer review._
+This work was published in:
+
+:	[Koepnick B, Flatten J, Husain T, Ford A, Silva D, Bick MJ, Bauer A, Liu G, Ishida Y, Boykov A, Estep RD, Kleinfelter S, Nørgård-Solano T, Wei L, Foldit Players, Montelione GT, DiMaio F, Popović Z, Khatib F, Cooper S, Baker D De novo protein design by citizen scientists. _Nature_ (2019). doi:10.1038/s41586-019-1274-4](https://www.nature.com/articles/s41586-019-1274-4)
 
 
 ## Model building in Foldit with electron density

@@ -8,6 +8,6 @@ authors: '<b>Koepnick B</b>, Lipscomb JS, Taylor DK'
 journal: 'J. Phys. Chem. A'
 volume: '114'
 page_num: '13228–13233'
-excerpt: 'Quantum mechanical calculations and absorption spectrum of a para-phenylene dimer, and the effects of various chemical substitutions.'
+excerpt: 'Quantum mechanical calculations and absorption spectra of a para-phenylene dimer with various chemical substitutions.'
 pdf: 'jp108619n.pdf'
 ---
