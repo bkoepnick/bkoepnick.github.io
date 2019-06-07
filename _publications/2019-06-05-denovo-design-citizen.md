@@ -9,7 +9,7 @@ authors: '<b>Koepnick B</b>, Flatten J, Husain T, Ford A, Silva D, Bick MJ, Baue
 journal: 'Nature'
 volume:
 page_num:
-pdf: 's41586-019-1274-4.pdf'
+pdf: '/files/s41586-019-1274-4.pdf'
 excerpt: 'Proteins designed by Foldit players fold accurately, with high stability, and span a diversity of protein folds.'
 thumbnail: 'pubthumb-2019-06-05.png'
 ---

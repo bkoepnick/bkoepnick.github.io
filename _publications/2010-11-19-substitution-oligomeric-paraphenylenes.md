@@ -9,5 +9,5 @@ journal: 'J. Phys. Chem. A'
 volume: '114'
 page_num: '13228–13233'
 excerpt: 'Quantum mechanics calculations and absorption spectra of a para-phenylene dimer with various chemical substitutions.'
-pdf: 'jp108619n.pdf'
+pdf: '/files/jp108619n.pdf'
 ---
