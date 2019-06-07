@@ -10,7 +10,7 @@ journal: 'Nature'
 volume:
 page_num:
 pdf: 's41586-019-1274-4.pdf'
-excerpt: 'Proteins designed by Foldit players fold accurately, are hyper-stable, and span a diversity of protein folds.'
+excerpt: 'Proteins designed by Foldit players fold accurately, with high stability, and span a diversity of protein folds.'
 thumbnail: 'pubthumb-2019-06-05.png'
 ---
 
